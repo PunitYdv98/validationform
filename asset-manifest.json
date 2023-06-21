@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/validationform/static/css/main.92ad2245.css",
+    "main.js": "/validationform/static/js/main.d62357e8.js",
+    "static/js/787.0bca8be2.chunk.js": "/validationform/static/js/787.0bca8be2.chunk.js",
+    "index.html": "/validationform/index.html",
+    "main.92ad2245.css.map": "/validationform/static/css/main.92ad2245.css.map",
+    "main.d62357e8.js.map": "/validationform/static/js/main.d62357e8.js.map",
+    "787.0bca8be2.chunk.js.map": "/validationform/static/js/787.0bca8be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ad2245.css",
+    "static/js/main.d62357e8.js"
+  ]
+}
